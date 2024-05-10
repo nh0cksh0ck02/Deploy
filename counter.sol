@@ -28,3 +28,4 @@ contract Counter is IGmpReceiver {
         return bytes32(number);
     }
 }
+// 0xB5D83c2436Ad54046d57Cd48c00D619D702F3814
